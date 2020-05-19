@@ -1,10 +1,10 @@
 ---
-permalink: /wiki/
-title: "wiki"
+permalink: /markdown/
+title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
-  - /wiki.html
+  - /markdown.html
 ---
 
 ## Locations of key files/directories
