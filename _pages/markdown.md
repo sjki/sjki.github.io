@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /Wiki/
+title: "Wiki"
 author_profile: true
 redirect_from: 
   - /md/
